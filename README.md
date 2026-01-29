@@ -93,31 +93,31 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 
 ### Other projects (publicly undocumented)
 
-- **cuT** (a fully-fledged 3D game engine)<br>
+**cuT** (a fully-fledged 3D game engine)<br>
 (25736 source lines of C)
 
-- **HeapZy** (a to-do list program)<br>
+**HeapZy** (a to-do list program)<br>
 (17065 source lines of C)
 
-- **DANGC** (my own programming language; started as a C-like language and grew into something different)<br>
+**DANGC** (my own programming language; started as a C-like language and grew into something different)<br>
 (17072 source lines of C; 3677 source lines of DANGC)
 
-- **Kryphos** (a cryptographic library)<br>
+**Kryphos** (a cryptographic library)<br>
 (11734 source lines of C; 3706 source lines of formal tests/proofs, such as HCL)
 
-- **ACARIS** (an attempted interpersonal dynamics analyzer)<br>
+**ACARIS** (an attempted interpersonal dynamics analyzer)<br>
 (2653 source lines of ... *Python* [*gasp!*])<br>
 <a href="https://github.com/ongakken/ACARIS/" target="_blank">GitHub</a> | <a href="https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf" target="_blank">Paper</a>
 
-- **Simtoon Compat Score** (an attempted heterosexual interpersonal attraction quantifier):<br>
+**Simtoon Compat Score** (an attempted heterosexual interpersonal attraction quantifier):<br>
 (181 source lines of Python)<br>
 <a href="https://github.com/danglingptr0x0/simtoon_compat_score" target="_blank">GitHub</a>
 
-- **Simtoon Embeddings**<br>
+**Simtoon Embeddings**<br>
 (698 source lines of Python)<br>
 <a href="https://github.com/ongakken/simtoon-embeddings" target="_blank">GitHub</a>
 
-- **Attraction classifier**<br>
+**Attraction classifier**<br>
 (907 source lines of Python. made purely for educational purposes; do not take seriously and do not use to judge people without consent!!!)<br>
 <a href="https://github.com/danglingptr0x0/attraction-classifier" target="_blank">GitHub</a>
 
