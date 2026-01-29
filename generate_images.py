@@ -36,8 +36,10 @@ async def generate_overview(s: Stats) -> None:
     lines_changed = await s.lines_changed
     lines_added = lines_changed[0]
     lines_deleted = lines_changed[1]
-    owned_repos = len(await s.repos)
-    contrib_repos = len(await s.all_repos) - owned_repos
+    all_repos = await s.all_repos
+    owned = await s.repos
+    owned_repos = len(owned)
+    contrib_repos = len(all_repos) - owned_repos
 
     output = re.sub("{{ name }}", await s.name, output)
     output = re.sub("{{ stars }}", f"{await s.stargazers:,}", output)
@@ -118,7 +120,7 @@ async def main() -> None:
     exclude_langs = os.getenv("EXCLUDED_LANGS")
     exclude_langs = ({x.strip() for x in exclude_langs.split(",")}
                      if exclude_langs else None)
-    consider_forked_repos = len(os.getenv("COUNT_STATS_FROM_FORKS")) != 0
+    consider_forked_repos = True
     async with aiohttp.ClientSession() as session:
         s = Stats(user, access_token, session, exclude_repos=exclude_repos,
                   exclude_langs=exclude_langs,
