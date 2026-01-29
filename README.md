@@ -41,7 +41,7 @@
 
 ## What I do
 
-<p align="center">
+<div align="center">
 I'm very passionate about technology and how it can be used to perform things that I like.
 My primary interest lies within systems engineering. As I grew up, I learned just how many unnecessary things are being done by software, plus, I somehow grew into, at least in part, disliking most of what I came into contact with.
 This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to do), then morphed into game engines (none really fit me), operating systems (kernel *and* userspace), programming languages (I love C vehemently, but ... it's not without its issues), and most recently, it got into hardware itself, where I feel like the x86 is just a piece of convoluted, bloated trash.
@@ -56,71 +56,72 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 #### The *Minimum Instruction Set Computer*, running on a *DANGLING Logic Unit* CPU:
 (5379 source lines of SystemVerilog)
 
-[![MISC/DLU](https://img.youtube.com/vi/0z8fyFlT9j0/hqdefault.jpg)](https://youtu.be/0z8fyFlT9j0)
-[![MISC/DLU](https://img.youtube.com/vi/88zfWD1QjG4/hqdefault.jpg)](https://youtu.be/88zfWD1QjG4)
-[![MISC/DLU](https://img.youtube.com/vi/m2xZuYtkQj0/hqdefault.jpg)](https://youtu.be/m2xZuYtkQj0)
-[![MISC/DLU](https://img.youtube.com/vi/VxQN1ailuKs/hqdefault.jpg)](https://youtu.be/VxQN1ailuKs)
-[![MISC/DLU](https://img.youtube.com/vi/DsVU5h5tOZ0/hqdefault.jpg)](https://youtu.be/DsVU5h5tOZ0)
-[![MISC/DLU](https://img.youtube.com/vi/EAIEFIgxNxU/hqdefault.jpg)](https://youtu.be/EAIEFIgxNxU)
+<a href="https://youtu.be/0z8fyFlT9j0" target="_blank"><img src="https://img.youtube.com/vi/0z8fyFlT9j0/hqdefault.jpg" alt="MISC/DLU"></a>
+<a href="https://youtu.be/88zfWD1QjG4" target="_blank"><img src="https://img.youtube.com/vi/88zfWD1QjG4/hqdefault.jpg" alt="MISC/DLU"></a>
+<a href="https://youtu.be/m2xZuYtkQj0" target="_blank"><img src="https://img.youtube.com/vi/m2xZuYtkQj0/hqdefault.jpg" alt="MISC/DLU"></a>
+<a href="https://youtu.be/VxQN1ailuKs" target="_blank"><img src="https://img.youtube.com/vi/VxQN1ailuKs/hqdefault.jpg" alt="MISC/DLU"></a>
+<a href="https://youtu.be/DsVU5h5tOZ0" target="_blank"><img src="https://img.youtube.com/vi/DsVU5h5tOZ0/hqdefault.jpg" alt="MISC/DLU"></a>
+<a href="https://youtu.be/EAIEFIgxNxU" target="_blank"><img src="https://img.youtube.com/vi/EAIEFIgxNxU/hqdefault.jpg" alt="MISC/DLU"></a>
 
 #### DANGLING (kernel + userspace)
 (7706 source lines of C)
 
-[![DANGLING](https://img.youtube.com/vi/lGklwzObeac/hqdefault.jpg)](https://youtu.be/lGklwzObeac)
-[![DANGLING](https://img.youtube.com/vi/Ncmah2Z49Z0/hqdefault.jpg)](https://youtu.be/Ncmah2Z49Z0)
+<a href="https://youtu.be/lGklwzObeac" target="_blank"><img src="https://img.youtube.com/vi/lGklwzObeac/hqdefault.jpg" alt="DANGLING"></a>
+<a href="https://youtu.be/Ncmah2Z49Z0" target="_blank"><img src="https://img.youtube.com/vi/Ncmah2Z49Z0/hqdefault.jpg" alt="DANGLING"></a>
 
 ---
 
 ### Terminal Insanity: RackJacker (PC game)
 (~2000 source lines of C++ (mediated via Unreal Engine at the time, so cannot estimate accurately))
 
-[![RackJacker](https://img.youtube.com/vi/ELHdPonwfZ0/hqdefault.jpg)](https://youtu.be/ELHdPonwfZ0)
-[![RackJacker](https://img.youtube.com/vi/UVYQyPGOqZA/hqdefault.jpg)](https://youtu.be/UVYQyPGOqZA)
-[![RackJacker](https://img.youtube.com/vi/TzdCWHnaJVg/hqdefault.jpg)](https://youtu.be/TzdCWHnaJVg)
+<a href="https://youtu.be/ELHdPonwfZ0" target="_blank"><img src="https://img.youtube.com/vi/ELHdPonwfZ0/hqdefault.jpg" alt="RackJacker"></a>
+<a href="https://youtu.be/UVYQyPGOqZA" target="_blank"><img src="https://img.youtube.com/vi/UVYQyPGOqZA/hqdefault.jpg" alt="RackJacker"></a>
+<a href="https://youtu.be/TzdCWHnaJVg" target="_blank"><img src="https://img.youtube.com/vi/TzdCWHnaJVg/hqdefault.jpg" alt="RackJacker"></a>
 
-[Steam Store Page](https://store.steampowered.com/app/1939490/Terminal_Insanity_RackJacker/)
+<a href="https://store.steampowered.com/app/1939490/Terminal_Insanity_RackJacker/" target="_blank">Steam Store Page</a>
 
 ### Terminal Insanity: CodeJacker (PC game)
 (27175 source lines of C)
 
-[Steam Store Page](https://store.steampowered.com/app/3635790/Terminal_Insanity_CodeJacker/)
+<a href="https://store.steampowered.com/app/3635790/Terminal_Insanity_CodeJacker/" target="_blank">Steam Store Page</a>
 
 ### Beat Rush (PC game)
 (also an Unreal game)
 
-[![Beat Rush](https://img.youtube.com/vi/8a1pWekduNI/hqdefault.jpg)](https://youtu.be/8a1pWekduNI)
-[![Beat Rush](https://img.youtube.com/vi/Bxnq-P4LA7s/hqdefault.jpg)](https://youtu.be/Bxnq-P4LA7s)
+<a href="https://youtu.be/8a1pWekduNI" target="_blank"><img src="https://img.youtube.com/vi/8a1pWekduNI/hqdefault.jpg" alt="Beat Rush"></a>
+<a href="https://youtu.be/Bxnq-P4LA7s" target="_blank"><img src="https://img.youtube.com/vi/Bxnq-P4LA7s/hqdefault.jpg" alt="Beat Rush"></a>
 
 ### Other projects (publicly undocumented)
 
-- **cuT** (a fully-fledged 3D game engine)
+- **cuT** (a fully-fledged 3D game engine)<br>
 (25736 source lines of C)
 
-- **HeapZy** (a to-do list program)
+- **HeapZy** (a to-do list program)<br>
 (17065 source lines of C)
 
-- **DANGC** (my own programming language; started as a C-like language and grew into something different)
+- **DANGC** (my own programming language; started as a C-like language and grew into something different)<br>
 (17072 source lines of C; 3677 source lines of DANGC)
 
-- **Kryphos** (a cryptographic library)
+- **Kryphos** (a cryptographic library)<br>
 (11734 source lines of C; 3706 source lines of formal tests/proofs, such as HCL)
 
-- **ACARIS** (an attempted interpersonal dynamics analyzer)
-(2653 source lines of ... *Python* [*gasp!*])
-[GitHub](https://github.com/ongakken/ACARIS/) | [Paper](https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf)
+- **ACARIS** (an attempted interpersonal dynamics analyzer)<br>
+(2653 source lines of ... *Python* [*gasp!*])<br>
+<a href="https://github.com/ongakken/ACARIS/" target="_blank">GitHub</a> | <a href="https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf" target="_blank">Paper</a>
 
-- **Simtoon Compat Score** (an attempted heterosexual interpersonal attraction quantifier):
-(181 source lines of Python)
-[GitHub](https://github.com/danglingptr0x0/simtoon_compat_score)
+- **Simtoon Compat Score** (an attempted heterosexual interpersonal attraction quantifier):<br>
+(181 source lines of Python)<br>
+<a href="https://github.com/danglingptr0x0/simtoon_compat_score" target="_blank">GitHub</a>
 
-- **Simtoon Embeddings**
-(698 source lines of Python)
-[GitHub](https://github.com/ongakken/simtoon-embeddings)
+- **Simtoon Embeddings**<br>
+(698 source lines of Python)<br>
+<a href="https://github.com/ongakken/simtoon-embeddings" target="_blank">GitHub</a>
 
-- **Attraction classifier**
-(907 source lines of Python. made purely for educational purposes; do not take seriously and do not use to judge people without consent!!!)
-[GitHub](https://github.com/danglingptr0x0/attraction-classifier)
-</p>
+- **Attraction classifier**<br>
+(907 source lines of Python. made purely for educational purposes; do not take seriously and do not use to judge people without consent!!!)<br>
+<a href="https://github.com/danglingptr0x0/attraction-classifier" target="_blank">GitHub</a>
+
+</div>
 
 ## Something more about me
 
