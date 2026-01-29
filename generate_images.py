@@ -33,15 +33,22 @@ async def generate_overview(s: Stats) -> None:
     with open("templates/overview.svg", "r") as f:
         output = f.read()
 
+    lines_changed = await s.lines_changed
+    lines_added = lines_changed[0]
+    lines_deleted = lines_changed[1]
+    owned_repos = len(await s.repos)
+    contrib_repos = len(await s.all_repos) - owned_repos
+
     output = re.sub("{{ name }}", await s.name, output)
     output = re.sub("{{ stars }}", f"{await s.stargazers:,}", output)
     output = re.sub("{{ forks }}", f"{await s.forks:,}", output)
     output = re.sub("{{ contributions }}", f"{await s.total_contributions:,}",
                     output)
-    changed = (await s.lines_changed)[0] + (await s.lines_changed)[1]
-    output = re.sub("{{ lines_changed }}", f"{changed:,}", output)
+    output = re.sub("{{ lines_added }}", f"{lines_added:,}", output)
+    output = re.sub("{{ lines_deleted }}", f"{lines_deleted:,}", output)
     output = re.sub("{{ views }}", f"{await s.views:,}", output)
-    output = re.sub("{{ repos }}", f"{len(await s.all_repos):,}", output)
+    output = re.sub("{{ owned_repos }}", f"{owned_repos:,}", output)
+    output = re.sub("{{ contrib_repos }}", f"{contrib_repos:,}", output)
 
     generate_output_folder()
     with open("generated/overview.svg", "w") as f:
