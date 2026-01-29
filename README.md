@@ -1,43 +1,9 @@
-<!---
-# == We're Using GitHub Under Protest ==
-
-This project is currently hosted on GitHub.  This is not ideal; GitHub is a
-proprietary, trade-secret system that is not Free and Open Souce Software
-(FOSS).  We are deeply concerned about using a proprietary system like GitHub
-to develop our FOSS project. We urge you to read about the
-[Give up GitHub](https://GiveUpGitHub.org) campaign from
-[the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
-
-We are currently attempting to move to Codeberg (based on Gitea).
-[Link to my Codeberg profile](https://codeberg.org/danglingptr0x0)
-
-Any use of this project's code by GitHub Copilot, past or present, is done
-without our permission.  We do not consent to GitHub's use of this project's
-code in Copilot.
-
-
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
---->
-
-
 <p align="left">
 	<a>
 		<h2>Hey, people</h2>
-		<!--<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="40px">-->
 	</a>
 
-
 </p>
-
-<!---
-<p align="center">
-	<a>
-		<img
-			src="https://github.com/ongakken/ongakken-web/blob/0656d0f33798f7f60ad0c3d1397828c982e333f5/public/OngakkenAILab-logo-O_TM_transparent.png?raw=true" height="400px" width="300px"/>
-	</a>
-</p>
---->
 
 <p align="center">
 	<a>
@@ -76,7 +42,84 @@ code in Copilot.
 ## What I do
 
 <p align="center">
-My bio and more <a href=https://simtoon.eu/>in my Mind</a>
+I'm very passionate about technology and how it can be used to perform things that I like.
+My primary interest lies within systems engineering. As I grew up, I learned just how many unnecessary things are being done by software, plus, I somehow grew into, at least in part, disliking most of what I came into contact with.
+This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to do), then morphed into game engines (none really fit me), operating systems (kernel *and* userspace), programming languages (I love C vehemently, but ... it's not without its issues), and most recently, it got into hardware itself, where I feel like the x86 is just a piece of convoluted, bloated trash.
+I have an ongoing project to address each of the above. I've made quite some progress in some, less in others.
+
+So far, I've collectively written ~143k SLOC in these projects.
+
+The most notable is my custom ISA + CPU, and an operating system to go along with it:
+
+### MISC ISA + DLU CPU (custom ISA + CPU)
+
+#### The *Minimum Instruction Set Computer*, running on a *DANGLING Logic Unit* CPU:
+(5379 source lines of SystemVerilog)
+
+[![MISC/DLU](https://img.youtube.com/vi/0z8fyFlT9j0/hqdefault.jpg)](https://youtu.be/0z8fyFlT9j0)
+[![MISC/DLU](https://img.youtube.com/vi/88zfWD1QjG4/hqdefault.jpg)](https://youtu.be/88zfWD1QjG4)
+[![MISC/DLU](https://img.youtube.com/vi/m2xZuYtkQj0/hqdefault.jpg)](https://youtu.be/m2xZuYtkQj0)
+[![MISC/DLU](https://img.youtube.com/vi/VxQN1ailuKs/hqdefault.jpg)](https://youtu.be/VxQN1ailuKs)
+[![MISC/DLU](https://img.youtube.com/vi/DsVU5h5tOZ0/hqdefault.jpg)](https://youtu.be/DsVU5h5tOZ0)
+[![MISC/DLU](https://img.youtube.com/vi/EAIEFIgxNxU/hqdefault.jpg)](https://youtu.be/EAIEFIgxNxU)
+
+#### DANGLING (kernel + userspace)
+(7706 source lines of C)
+
+[![DANGLING](https://img.youtube.com/vi/lGklwzObeac/hqdefault.jpg)](https://youtu.be/lGklwzObeac)
+[![DANGLING](https://img.youtube.com/vi/Ncmah2Z49Z0/hqdefault.jpg)](https://youtu.be/Ncmah2Z49Z0)
+
+---
+
+### Terminal Insanity: RackJacker (PC game)
+(~2000 source lines of C++ (mediated via Unreal Engine at the time, so cannot estimate accurately))
+
+[![RackJacker](https://img.youtube.com/vi/ELHdPonwfZ0/hqdefault.jpg)](https://youtu.be/ELHdPonwfZ0)
+[![RackJacker](https://img.youtube.com/vi/UVYQyPGOqZA/hqdefault.jpg)](https://youtu.be/UVYQyPGOqZA)
+[![RackJacker](https://img.youtube.com/vi/TzdCWHnaJVg/hqdefault.jpg)](https://youtu.be/TzdCWHnaJVg)
+
+[Steam Store Page](https://store.steampowered.com/app/1939490/Terminal_Insanity_RackJacker/)
+
+### Terminal Insanity: CodeJacker (PC game)
+(27175 source lines of C)
+
+[Steam Store Page](https://store.steampowered.com/app/3635790/Terminal_Insanity_CodeJacker/)
+
+### Beat Rush (PC game)
+(also an Unreal game)
+
+[![Beat Rush](https://img.youtube.com/vi/8a1pWekduNI/hqdefault.jpg)](https://youtu.be/8a1pWekduNI)
+[![Beat Rush](https://img.youtube.com/vi/Bxnq-P4LA7s/hqdefault.jpg)](https://youtu.be/Bxnq-P4LA7s)
+
+### Other projects (publicly undocumented)
+
+- **cuT** (a fully-fledged 3D game engine)
+(25736 source lines of C)
+
+- **HeapZy** (a to-do list program)
+(17065 source lines of C)
+
+- **DANGC** (my own programming language; started as a C-like language and grew into something different)
+(17072 source lines of C; 3677 source lines of DANGC)
+
+- **Kryphos** (a cryptographic library)
+(11734 source lines of C; 3706 source lines of formal tests/proofs, such as HCL)
+
+- **ACARIS** (an attempted interpersonal dynamics analyzer)
+(2653 source lines of ... *Python* [*gasp!*])
+[GitHub](https://github.com/ongakken/ACARIS/) | [Paper](https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf)
+
+- **Simtoon Compat Score** (an attempted heterosexual interpersonal attraction quantifier):
+(181 source lines of Python)
+[GitHub](https://github.com/danglingptr0x0/simtoon_compat_score)
+
+- **Simtoon Embeddings**
+(698 source lines of Python)
+[GitHub](https://github.com/ongakken/simtoon-embeddings)
+
+- **Attraction classifier**
+(907 source lines of Python. made purely for educational purposes; do not take seriously and do not use to judge people without consent!!!)
+[GitHub](https://github.com/danglingptr0x0/attraction-classifier)
 </p>
 
 ## Something more about me
@@ -340,13 +383,3 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 	</a>
 </p>
 
-## Support
-<p align="center">
-	<a href="https://www.buymeacoffee.com/simtoon" target="_blank"><img
-			src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100"
-			style="border-radius:2px" />
-		<a href="https://ko-fi.com/simtoon" target="_blank"><img height="23" width="100"
-				src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" alt="Buy Coffee for Simon" />
-			<a href="https://www.paypal.com/donate?hosted_button_id=ZQ9NUEPAZK47C" target="_blank"><img height='23' width="100"
-					src="https://ionicabizau.github.io/badges/paypal.svg" alt="Use PayPal to buy me a coffee ^^" />
-</p>
