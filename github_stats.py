@@ -109,11 +109,11 @@ class Queries(object):
     name,
     repositories(
         first: 100,
+        ownerAffiliations: [OWNER],
         orderBy: {{
             field: UPDATED_AT,
             direction: DESC
         }},
-        isFork: false,
         after: {"null" if owned_cursor is None else '"'+ owned_cursor +'"'}
     ) {{
       pageInfo {{
