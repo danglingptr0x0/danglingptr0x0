@@ -10,11 +10,11 @@ jobs:
     steps:
 
       # ======================================================================================
-      # 🖼️ TEMPLATES
+      # TEMPLATES
       # ======================================================================================
 
       # Classic template example
-      - name: 📗 Classic template
+      - name: Classic template
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -28,7 +28,7 @@ jobs:
 
 
       # Terminal template example
-      - name: 📙 Terminal template
+      - name: Terminal template
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -49,14 +49,14 @@ jobs:
 
 
       # ======================================================================================
-      # 🧩 PLUGINS
+      # PLUGINS
       # ======================================================================================
 
       # ======================================================================================
-      # 🏆 Achievements
+      # Achievements
 
       # Achievements
-      - name: 🏆 Achievements
+      - name: Achievements
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -71,10 +71,10 @@ jobs:
 
 
       # ======================================================================================
-      # 📰 Recent activity
+      # Recent activity
 
       # Display recent activity
-      - name: 📰 Activity plugin
+      - name: Activity plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -90,10 +90,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🌸 Anilist
+      # Anilist
 
       # Anilist plugin with all sections
-      - name: 🌸 Anilist plugin (complete)
+      - name: Anilist plugin (complete)
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -110,10 +110,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🎟️ Follow-up of issues and pull requests
+      # Follow-up of issues and pull requests
 
       # Display ratio of open/closed/merged issues and pull requests on repositories
-      - name: 🎟️ Follow-up plugin
+      - name: Follow-up plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -127,7 +127,7 @@ jobs:
 
           
       # Display ratio of open/closed/merged issues and pull requests created by user
-      - name: 🎟️ Follow-up plugin (user)
+      - name: Follow-up plugin (user)
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -142,10 +142,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🎫 Gists
+      # Gists
 
       # Display gists metrics
-      - name: 🎫 Gists plugin
+      - name: Gists plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -158,10 +158,10 @@ jobs:
 
           
       # ======================================================================================
-      # 💭 GitHub Community Support
+      # GitHub Community Support
 
       # GitHub community support statistics
-      - name: 💭 GitHub Community Support
+      - name: GitHub Community Support
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -173,10 +173,10 @@ jobs:
 
 
       # ======================================================================================
-      # 💡 Coding habits
+      # Coding habits
 
       # Display coding habits and recent activity (setup timezone for accurate metrics)
-      - name: 💡 Habits plugin
+      - name: Habits plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -192,10 +192,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🙋 Introduction
+      # Introduction
 
       # Display introduction (user)
-      - name: 🙋 Introduction plugin
+      - name: Introduction plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -209,10 +209,10 @@ jobs:
 
 
       # ======================================================================================
-      # 📅 Isometric commit calendar
+      # Isometric commit calendar
 
       # Display isometric calendar (365 days)
-      - name: 📅 Isocalendar plugin (full year)
+      - name: Isocalendar plugin (full year)
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -226,10 +226,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🈷️ Most used languages
+      # Most used languages
 
-      # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
-      - name: 🈷️ Languages plugin (detailed)
+      # Display most used languages (with some unwanted languages ignored, with details)
+      - name: Languages plugin (detailed)
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -246,10 +246,10 @@ jobs:
 
 
       # ======================================================================================
-      # 👨‍💻 Lines of code changed
+      # Lines of code changed
 
       # Display number of line changed (this is part of base content "repositories" section, so you need to enable it)
-      - name: 👨‍💻 Lines plugin
+      - name: Lines plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -262,7 +262,7 @@ jobs:
 
 
       # ======================================================================================
-      # 🎼 Music plugin
+      # Music plugin
 
       # Display random tracks from given embed playlist
       # Note that :
@@ -271,7 +271,7 @@ jobs:
 
       # Display recently played music
       # Note that in this mode "plugin_music_mode", "plugin_music_provider" and "plugin_music_token" are all required
-      - name: 🎼 Music plugin (recent)
+      - name: Music plugin (recent)
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -291,10 +291,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🎩 Notable contributions
+      # Notable contributions
 
       # Display badges of organizations with at least one commit from user
-      - name: 🎩 Notable contributions
+      - name: Notable contributions
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -308,10 +308,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🧑‍🤝‍🧑 People plugin
+      # People plugin
 
       # Display followers and followed users
-      - name: 🧑‍🤝‍🧑 People plugin
+      - name: People plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -324,7 +324,7 @@ jobs:
 
 
       # ======================================================================================
-      # 🗂️ Projects
+      # Projects
 
       # Display active projects
       # Note that :
@@ -333,7 +333,7 @@ jobs:
       # - You can use repositories projects by providing a list of comma-separated endpoints
       # - You can set "plugin_projects_limit" to 0 to display only "plugin_projects_repositories"
       # - You'll need to enable "Track project progress" in your projects to display a progress bar
-      - name: 🗂️ Projects plugin
+      - name: Projects plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -347,10 +347,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🎭 Comment reactions plugin
+      # Comment reactions plugin
 
       # Display comment reactions statistics
-      - name: 🎭 Reactions plugin
+      - name: Reactions plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -365,10 +365,10 @@ jobs:
 
 
       # ======================================================================================
-      # 🌟 Recently starred repositories
+      # Recently starred repositories
 
       # Display latest starred repositories
-      - name: 🌟 Stars plugin
+      - name: Stars plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -382,10 +382,10 @@ jobs:
 
 
       # ======================================================================================
-      # 📌 Starred topics
+      # Starred topics
 
       # Display starred topics (as labels)
-      - name: 📌 Topics plugin
+      - name: Topics plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -399,11 +399,11 @@ jobs:
 
 
       # ======================================================================================
-      # 🧮 Repositories traffic
+      # Repositories traffic
 
       # Display number of repositories views (this is part of base content "repositories" section, so you need to enable it)
       # Note that a "repo" scope is required
-      - name: 🧮 Traffic plugin
+      - name: Traffic plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -416,10 +416,10 @@ jobs:
 
 
       # ======================================================================================
-      # ⏰ WakaTime plugin
+      # WakaTime plugin
 
       # Display your wakatime metrics
-      - name: ⏰ WakaTime plugin
+      - name: WakaTime plugin
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -437,7 +437,7 @@ jobs:
       # "--cakeday" will act as if it's your account birthday
       # "--hireable" will act as if "Available for hire" is enabled
       # "--halloween" will act as if it was halloween, changing the colors of calendars
-      - name: 💬 Header (hidden features)
+      - name: Header (hidden features)
         if: ${{ success() || failure() }}
         uses: danglingptr0x0/metrics@master
         with:
@@ -474,7 +474,7 @@ jobs:
 
 
 
-      - name: 💝 GitHub Sponsorships
+      - name: GitHub Sponsorships
         uses: danglingptr0x0/metrics@master
         with:
           filename: metrics.plugin.sponsorships.svg
