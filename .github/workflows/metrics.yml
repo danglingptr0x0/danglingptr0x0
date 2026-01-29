@@ -201,7 +201,7 @@ jobs:
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.GH_TOKEN }}
-          user: simonSlamka
+          user: danglingptr0x0
           base: header
           plugin_introduction: yes
           plugins_errors_fatal: no
