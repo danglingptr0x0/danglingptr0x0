@@ -215,8 +215,6 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 ## Basic stats - global, all-time
 
 <p align="center">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/TheKentuckian.png" alt="TryHackMe">
-	</br>
 	<a href="https://wakatime.com/@70f280d9-2d73-42e5-894d-a0d0f2acbd75"><img
 			src="https://wakatime.com/badge/user/70f280d9-2d73-42e5-894d-a0d0f2acbd75.svg"
 			alt="Total time coded since May 15 2021" /></a></br>
