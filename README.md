@@ -123,16 +123,18 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 
 </div>
 
+<div align="center">
+
 ## Something more about me
 
-<p align="center">
+
 	<b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music
 	listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering
 	ways
 	to improve and become more performant.
-	<br />For coding tracking, I use <a href="https://wakatime.com/danglingptr0x0">WakaTime</a>.
-</p>
-</br>
+<br>For coding tracking, I use <a href="https://wakatime.com/danglingptr0x0" target="_blank">WakaTime</a>.
+
+</div>
 <!------
 ### Big Five
 
