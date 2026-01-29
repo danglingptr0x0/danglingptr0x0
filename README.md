@@ -118,7 +118,7 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 <a href="https://github.com/ongakken/simtoon-embeddings" target="_blank">GitHub</a>
 
 **Attraction classifier**<br>
-(907 source lines of Python. made purely for educational purposes; do not take seriously and do not use to judge people without consent!!!)<br>
+(907 source lines of Python. made purely for educational purposes; do not take seriously; do not use on people without consent!)<br>
 <a href="https://github.com/danglingptr0x0/attraction-classifier" target="_blank">GitHub</a>
 
 </div>
