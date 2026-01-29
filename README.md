@@ -10,7 +10,7 @@ to develop our FOSS project. We urge you to read about the
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
 We are currently attempting to move to Codeberg (based on Gitea).
-[Link to my Codeberg profile](https://codeberg.org/simonSlamka)
+[Link to my Codeberg profile](https://codeberg.org/danglingptr0x0)
 
 Any use of this project's code by GitHub Copilot, past or present, is done
 without our permission.  We do not consent to GitHub's use of this project's
@@ -24,7 +24,7 @@ code in Copilot.
 <p align="left">
 	<a>
 		<h2>Hey, people</h2>
-		<!--<img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="40px">-->
+		<!--<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="40px">-->
 	</a>
 
 
@@ -41,19 +41,19 @@ code in Copilot.
 
 <p align="center">
 	<a>
-		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.classic.svg" />
+		<img src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.classic.svg" />
 	</a>
 	<br />
 	<!-- <a>
-       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg"/>
+       <img align="center" src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.languages.details.svg"/>
     </a>
     <br/> -->
 	<!--  <a>
-        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
+        <img src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.support.svg"/>
     </a> -->
 	<br />
 	<a>
-		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.people.svg" />
+		<img src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.people.svg" />
 	</a>
 </p>
 
@@ -86,7 +86,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 	listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering
 	ways
 	to improve and become more performant.
-	<br />For coding tracking, I use <a href="https://wakatime.com/simonSlamka">WakaTime</a>.
+	<br />For coding tracking, I use <a href="https://wakatime.com/danglingptr0x0">WakaTime</a>.
 </p>
 </br>
 <!------
@@ -94,7 +94,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 
 <p align="center">
 	<a>
-		<img src="https://github.com/simonSlamka/simonSlamka/blob/3ffce6a9ea6071fb6ef3aadbcaca3f5aa45ab85d/BIG5-graphic.png"/>
+		<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/3ffce6a9ea6071fb6ef3aadbcaca3f5aa45ab85d/BIG5-graphic.png"/>
 
 ### MBTI
 
@@ -102,7 +102,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 
 <p align="center">
 	<a>
-		<img src="https://github.com/simonSlamka/simonSlamka/blob/b31de57a13bff648f71a660dd5aab965dc23674c/mbti.png"/>
+		<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/b31de57a13bff648f71a660dd5aab965dc23674c/mbti.png"/>
 
 </p>
 
@@ -112,7 +112,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 
 <p align="center">
 	<a>
-		<img src="https://github.com/simonSlamka/simonSlamka/blob/93a40834fa5eb719062c5b93e7ed7cfcce00324b/Screenshot%20from%202023-12-19%2008-15-13.png"/>
+		<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/93a40834fa5eb719062c5b93e7ed7cfcce00324b/Screenshot%20from%202023-12-19%2008-15-13.png"/>
 
 </p>
 
@@ -120,7 +120,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 
 <p align="center">
 	<a>
-		<img src="https://github.com/simonSlamka/simonSlamka/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-10-35.png"/>
+		<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-10-35.png"/>
 
 </p>
 
@@ -128,8 +128,8 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 
 <p align="center">
 	<a>
-		<img src="https://github.com/simonSlamka/simonSlamka/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-15-02.png"/>
-  		<img src="https://github.com/simonSlamka/simonSlamka/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-15-38.png"/>
+		<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-15-02.png"/>
+  		<img src="https://github.com/danglingptr0x0/danglingptr0x0/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-15-38.png"/>
 
 </p>
 ----->
@@ -144,28 +144,28 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.achievements.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.achievements.svg" />
 	</a>
 </p>
 
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://stats.quine.sh/simonSlamka/github?theme=dark"/>
+			src="https://stats.quine.sh/danglingptr0x0/github?theme=dark"/>
 	</a>
 </p>
 
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://stats.quine.sh/simonSlamka/languages-over-time?theme=dark"/>
+			src="https://stats.quine.sh/danglingptr0x0/languages-over-time?theme=dark"/>
 	</a>
 </p>
 
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://stats.quine.sh/simonSlamka/topics-over-time?theme=dark"/>
+			src="https://stats.quine.sh/danglingptr0x0/topics-over-time?theme=dark"/>
 	</a>
 </p>
 
@@ -178,21 +178,21 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 			src="https://wakatime.com/badge/user/70f280d9-2d73-42e5-894d-a0d0f2acbd75.svg"
 			alt="Total time coded since May 15 2021" /></a></br>
 	<a>
-		<img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/overview.svg" />
+		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/overview.svg" />
 	</a>
 	</br>
-	<a href="https://wakatime.com/@simonSlamka">
-		<img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/languages.svg" />
+	<a href="https://wakatime.com/@danglingptr0x0">
+		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/languages.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="http://github-readme-streak-stats.herokuapp.com?user=simonSlamka&theme=tokyonight_duo&hide_border=true" />
+			src="http://github-readme-streak-stats.herokuapp.com?user=danglingptr0x0&theme=tokyonight_duo&hide_border=true" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-		     src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.code.svg"/>
+		     src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.code.svg"/>
 	</a>
 	<br />
 	<br />
@@ -203,60 +203,60 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.wakatime.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.wakatime.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.projects.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.projects.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.habits.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.habits.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.languages.details.svg" />
 	</a>
 	<br />
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.followup.svg" />
 	</a>
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.user.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.followup.user.svg" />
 	</a>
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.isocalendar.fullyear.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.isocalendar.fullyear.svg" />
 	</a>
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.activity.svg" />
-	</a>
-	<br />
-	<a>
-		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.reactions.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.activity.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.stars.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.reactions.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.gists.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.stars.svg" />
 	</a>
 	<br />
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.music.recent.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.gists.svg" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.music.recent.svg" />
 	</a>
 </p>
 
@@ -326,17 +326,17 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.steam.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.steam.svg" />
 	</a>
 
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.anilist.full.svg" />
+			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.anilist.full.svg" />
 	</a>
 	<br />
 	<a>
-		<img align="center" src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)" />
+		<img align="center" src="https://komarev.com/ghpvc/?username=danglingptr0x0" alt="Profile visits (pageviews)" />
 	</a>
 </p>
 
