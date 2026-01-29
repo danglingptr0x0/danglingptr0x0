@@ -129,7 +129,7 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 
 <b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering ways to improve and become more performant.
 
-<br>For coding tracking, I use <a href="https://wakatime.com/danglingptr0x0" target="_blank">WakaTime</a>.
+<br>For coding tracking, I use <a href="https://wakatime.com/simonSlamka" target="_blank">WakaTime</a>.
 
 </div>
 <!------
@@ -224,7 +224,7 @@ The most notable is my custom ISA + CPU, and an operating system to go along wit
 		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/overview.svg" />
 	</a>
 	</br>
-	<a href="https://wakatime.com/@danglingptr0x0">
+	<a href="https://wakatime.com/@simonSlamka">
 		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/languages.svg" />
 	</a>
 	<br />
