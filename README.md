@@ -49,7 +49,7 @@ I have an ongoing project to address each of the above. I've made quite some pro
 
 So far, I've collectively written ~137k SLOC in these projects.
 
-The most notable is my custom ISA + CPU, and an operating system to go along with it:
+The most notable is my custom ISA + 32-bit CPU, and an operating system to go along with it:
 
 ### MISC ISA + DLU CPU (custom ISA + CPU)
 
