@@ -357,7 +357,7 @@ The most notable is my custom ISA + 32-bit CPU, and an operating system to go al
 🎮 Elite Dangerous                  🕘 382 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 330 hrs 49 mins
 🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 51 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 252 hrs 42 mins
+🎮 Deus Ex: Human Revolution - Director's Cut 🕘 252 hrs 55 mins
 🎮 VRChat                           🕘 223 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
