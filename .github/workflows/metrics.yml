@@ -20,7 +20,7 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GH_TOKEN }}
-          base: header, repositories, activity, community
+          base: header, repositories, activity
           base_indepth: yes
           plugin_lines: yes
           plugins_errors_fatal: no
@@ -157,20 +157,6 @@ jobs:
           output_action: commit
 
           
-      # ======================================================================================
-      # GitHub Community Support
-
-      # GitHub community support statistics
-      - name: GitHub Community Support
-        if: ${{ success() || failure() }}
-        uses: danglingptr0x0/metrics@master
-        with:
-          filename: metrics.plugin.support.svg
-          token: NOT_NEEDED
-          plugin_support: yes
-          plugins_errors_fatal: no
-          output_action: commit
-
 
       # ======================================================================================
       # Coding habits
