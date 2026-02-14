@@ -188,26 +188,6 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 	</a>
 </p>
 
-<p align="center">
-	<a>
-		<img align="center"
-			src="https://stats.quine.sh/danglingptr0x0/github?theme=dark"/>
-	</a>
-</p>
-
-<p align="center">
-	<a>
-		<img align="center"
-			src="https://stats.quine.sh/danglingptr0x0/languages-over-time?theme=dark"/>
-	</a>
-</p>
-
-<p align="center">
-	<a>
-		<img align="center"
-			src="https://stats.quine.sh/danglingptr0x0/topics-over-time?theme=dark"/>
-	</a>
-</p>
 
 ## Basic stats - global, all-time
 
