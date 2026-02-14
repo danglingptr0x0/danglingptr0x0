@@ -47,7 +47,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to take), then morphed into: game engines (none really fit me; Unreal was too bloated, Unity used ... *JavaScript*); operating systems (kernel *and* userspace); programming languages (I love C vehemently, but ... it's not without its (many) issues); and most recently, it got into hardware itself, where I felt like the x86 is just a piece of convoluted, bloated trash.
 I have an ongoing project to address each of the above. I've made quite some progress in some, less in others.
 
-So far, I've collectively written ~137k SLOC in these projects.
+So far, I've collectively written ~137k SLOC in these projects. I only use SLOC to estimate project size, but it doesn't really mean anything more than that. Code quality is not measured in SLOC.
 
 The most notable is my custom ISA + 32-bit CPU, and an operating system to go along with it:
 
