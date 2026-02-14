@@ -42,20 +42,16 @@
 ## What I do
 
 <div align="center">
-I'm very passionate about technology and how it can be used to perform things that I like.
-My primary interest lies within systems engineering. As I grew up, I learned just how many unnecessary things are being done by software. Plus, I somehow grew into, at least in part, disliking most of what I came into contact with. I had many ideas on how to make things differently.
-This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to take), then morphed into: game engines (none really fit me; Unreal was too bloated, Unity used ... *JavaScript*); operating systems (kernel *and* userspace); programming languages (I love C vehemently, but ... it's not without its (many) issues); and most recently, it got into hardware itself, where I felt like the x86 is just a piece of convoluted, bloated trash.
-I have an ongoing project to address each of the above. I've made quite some progress in some, less in others.
+<p>I'm very passionate about technology and how it can be used to perform things that I like.
+My primary interest lies within systems engineering. As I grew up, I learned just how many unnecessary things are being done by software. Plus, I somehow grew into, at least in part, disliking most of what I came into contact with. I had many ideas on how to make things differently.</p>
+<p>This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to take), then morphed into: game engines (none really fit me; Unreal was too bloated, Unity used ... <i>JavaScript</i>); operating systems (kernel <i>and</i> userspace); programming languages (I love C vehemently, but ... it's not without its (many) issues); and most recently, it got into hardware itself, where I felt like the x86 is just a piece of convoluted, bloated trash.</p>
+<p>I have an ongoing project to address each of the above. I've made quite some progress in some, less in others.</p>
+<p>So far, I've collectively written ~137k SLOC in these projects. I only use SLOC to estimate project size, but it doesn't really mean anything more than that. Code quality is not measured in SLOC.</p>
+<p>The most notable is my custom ISA + 32-bit CPU, and an operating system to go along with it:</p>
 
-
-So far, I've collectively written ~137k SLOC in these projects. I only use SLOC to estimate project size, but it doesn't really mean anything more than that. Code quality is not measured in SLOC.
-
-The most notable is my custom ISA + 32-bit CPU, and an operating system to go along with it:
-
-### MISC ISA + DLU CPU (custom ISA + CPU)
-
-#### The *Minimum Instruction Set Computer*, running on a *DANGLING Logic Unit* CPU:
-(5379 source lines of SystemVerilog)
+<h3>MISC ISA + DLU CPU (custom ISA + CPU)</h3>
+<h4>The <i>Minimum Instruction Set Computer</i>, running on a <i>DANGLING Logic Unit</i> CPU:</h4>
+<p>(5379 source lines of SystemVerilog)</p>
 
 <a href="https://youtu.be/0z8fyFlT9j0" target="_blank"><img src="https://img.youtube.com/vi/0z8fyFlT9j0/hqdefault.jpg" alt="MISC/DLU"></a>
 <a href="https://youtu.be/88zfWD1QjG4" target="_blank"><img src="https://img.youtube.com/vi/88zfWD1QjG4/hqdefault.jpg" alt="MISC/DLU"></a>
@@ -64,73 +60,73 @@ The most notable is my custom ISA + 32-bit CPU, and an operating system to go al
 <a href="https://youtu.be/DsVU5h5tOZ0" target="_blank"><img src="https://img.youtube.com/vi/DsVU5h5tOZ0/hqdefault.jpg" alt="MISC/DLU"></a>
 <a href="https://youtu.be/EAIEFIgxNxU" target="_blank"><img src="https://img.youtube.com/vi/EAIEFIgxNxU/hqdefault.jpg" alt="MISC/DLU"></a>
 
-#### DANGLING (kernel + userspace)
-(7706 source lines of C)
+<h4>DANGLING (kernel + userspace)</h4>
+<p>(7706 source lines of C)</p>
 
 <a href="https://youtu.be/lGklwzObeac" target="_blank"><img src="https://img.youtube.com/vi/lGklwzObeac/hqdefault.jpg" alt="DANGLING"></a>
 <a href="https://youtu.be/Ncmah2Z49Z0" target="_blank"><img src="https://img.youtube.com/vi/Ncmah2Z49Z0/hqdefault.jpg" alt="DANGLING"></a>
 
----
+<hr>
 
-### Terminal Insanity: RackJacker (PC game)
-(~2000 source lines of C++ (mediated via Unreal Engine at the time, so cannot estimate accurately))
+<h3>Terminal Insanity: RackJacker (PC game)</h3>
+<p>(~2000 source lines of C++ (mediated via Unreal Engine at the time, so cannot estimate accurately))</p>
 
 <a href="https://youtu.be/ELHdPonwfZ0" target="_blank"><img src="https://img.youtube.com/vi/ELHdPonwfZ0/hqdefault.jpg" alt="RackJacker"></a>
 <a href="https://youtu.be/UVYQyPGOqZA" target="_blank"><img src="https://img.youtube.com/vi/UVYQyPGOqZA/hqdefault.jpg" alt="RackJacker"></a>
 <a href="https://youtu.be/TzdCWHnaJVg" target="_blank"><img src="https://img.youtube.com/vi/TzdCWHnaJVg/hqdefault.jpg" alt="RackJacker"></a>
 
-<a href="https://store.steampowered.com/app/1939490/Terminal_Insanity_RackJacker/" target="_blank">Steam Store Page</a>
+<p><a href="https://store.steampowered.com/app/1939490/Terminal_Insanity_RackJacker/" target="_blank">Steam Store Page</a></p>
 
-### Terminal Insanity: CodeJacker (PC game)
-(27175 source lines of C)
+<h3>Terminal Insanity: CodeJacker (PC game)</h3>
+<p>(27175 source lines of C)</p>
 
-<a href="https://store.steampowered.com/app/3635790/Terminal_Insanity_CodeJacker/" target="_blank">Steam Store Page</a>
+<p><a href="https://store.steampowered.com/app/3635790/Terminal_Insanity_CodeJacker/" target="_blank">Steam Store Page</a></p>
 
-### Beat Rush (PC game)
-(also an Unreal game)
+<h3>Beat Rush (PC game)</h3>
+<p>(also an Unreal game)</p>
 
 <a href="https://youtu.be/8a1pWekduNI" target="_blank"><img src="https://img.youtube.com/vi/8a1pWekduNI/hqdefault.jpg" alt="Beat Rush"></a>
 <a href="https://youtu.be/Bxnq-P4LA7s" target="_blank"><img src="https://img.youtube.com/vi/Bxnq-P4LA7s/hqdefault.jpg" alt="Beat Rush"></a>
 
-### Other projects (publicly undocumented)
+<h3>Other projects (publicly undocumented)</h3>
 
-**cuT** (a fully-fledged 3D game engine)<br>
-(25736 source lines of C)
+<p><b>cuT</b> (a fully-fledged 3D game engine)<br>
+(25736 source lines of C)</p>
 
-**HeapZy** (a to-do list program)<br>
-(17065 source lines of C)
+<p><b>HeapZy</b> (a to-do list program)<br>
+(17065 source lines of C)</p>
 
-**DANGC** (my own programming language; started as a C-like language and grew into something different)<br>
-(17072 source lines of C; 3677 source lines of DANGC)
+<p><b>DANGC</b> (my own programming language; started as a C-like language and grew into something different)<br>
+(17072 source lines of C; 3677 source lines of DANGC)</p>
 
-**Kryphos** (a cryptographic library)<br>
-(11734 source lines of C; 3706 source lines of formal tests/proofs, such as HCL)
+<p><b>Kryphos</b> (a cryptographic library)<br>
+(11734 source lines of C; 3706 source lines of formal tests/proofs, such as HCL)</p>
 
-**ACARIS** (an attempted interpersonal dynamics analyzer)<br>
-(2653 source lines of ... *Python* [*gasp!*])<br>
-<a href="https://github.com/ongakken/ACARIS/" target="_blank">GitHub</a> | <a href="https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf" target="_blank">Paper</a>
+<p><b>ACARIS</b> (an attempted interpersonal dynamics analyzer)<br>
+(2653 source lines of ... <i>Python</i> [<i>gasp!</i>])<br>
+<a href="https://github.com/ongakken/ACARIS/" target="_blank">GitHub</a> | <a href="https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf" target="_blank">Paper</a></p>
 
-**Simtoon Compat Score** (an attempted heterosexual interpersonal attraction quantifier):<br>
+<p><b>Simtoon Compat Score</b> (an attempted heterosexual interpersonal attraction quantifier):<br>
 (181 source lines of Python)<br>
-<a href="https://github.com/danglingptr0x0/simtoon_compat_score" target="_blank">GitHub</a>
+<a href="https://github.com/danglingptr0x0/simtoon_compat_score" target="_blank">GitHub</a></p>
 
-**Simtoon Embeddings**<br>
+<p><b>Simtoon Embeddings</b><br>
 (698 source lines of Python)<br>
-<a href="https://github.com/ongakken/simtoon-embeddings" target="_blank">GitHub</a>
+<a href="https://github.com/ongakken/simtoon-embeddings" target="_blank">GitHub</a></p>
 
-**Attraction classifier**<br>
+<p><b>Attraction classifier</b><br>
 (907 source lines of Python. made purely for educational purposes; do not take seriously; do not use on people without consent!)<br>
-<a href="https://github.com/danglingptr0x0/attraction-classifier" target="_blank">GitHub</a>
+<a href="https://github.com/danglingptr0x0/attraction-classifier" target="_blank">GitHub</a></p>
 
 </div>
 
 <div align="center">
 
-## Something more about me
+<h2>Something more about me</h2>
 
-<b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering ways to improve and become more performant.
+<p><b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering ways to improve and become more performant.</p>
 
-<br>For coding tracking, I use <a href="https://wakatime.com/simonSlamka" target="_blank">WakaTime</a>.
+<p>For coding tracking, I use <a href="https://wakatime.com/simonSlamka" target="_blank">WakaTime</a>.</p>
 
 </div>
 <!------
@@ -218,11 +214,11 @@ The most notable is my custom ISA + 32-bit CPU, and an operating system to go al
 <p align="center">
 	<a href="https://wakatime.com/@70f280d9-2d73-42e5-894d-a0d0f2acbd75"><img
 			src="https://wakatime.com/badge/user/70f280d9-2d73-42e5-894d-a0d0f2acbd75.svg"
-			alt="Total time coded since May 15 2021" /></a></br>
+			alt="Total time coded since May 15 2021" /></a><br>
 	<a>
 		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/overview.svg" />
 	</a>
-	</br>
+	<br>
 	<a href="https://wakatime.com/@simonSlamka">
 		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/languages.svg" />
 	</a>
@@ -363,7 +359,7 @@ The most notable is my custom ISA + 32-bit CPU, and an operating system to go al
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
-</br>
+<br>
 
 <p align="center">
 	<a>
