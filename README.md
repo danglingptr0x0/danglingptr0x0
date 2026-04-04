@@ -334,7 +334,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 🎮 Elite Dangerous                  🕘 382 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 330 hrs 49 mins
 🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 51 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 253 hrs 59 mins
+🎮 Deus Ex: Human Revolution - Director's Cut 🕘 261 hrs 24 mins
 🎮 VRChat                           🕘 223 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
