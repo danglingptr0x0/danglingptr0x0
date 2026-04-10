@@ -332,7 +332,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 🎮 Steam playtime leaderboard
 ```text
 🎮 Elite Dangerous                  🕘 382 hrs 7 mins
-🔫 Counter-Strike 2                 🕘 364 hrs 23 mins
+🔫 Counter-Strike 2                 🕘 368 hrs 41 mins
 🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 51 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 261 hrs 24 mins
 🎮 VRChat                           🕘 223 hrs 3 mins
