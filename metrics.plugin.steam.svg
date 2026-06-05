@@ -72,9 +72,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcDBAUIAgD/xAAuEAABAwMDAgYBAwUAAAAAAAABAgMEAAURBhIhMVEHEyJBQmFxJDJSFENikbH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCBgH/xAAmEQACAQMEAgICAwAAAAAAAAABAgMABCEREjFBBRMiURQVYXGx/9oADAMBAAIRAxEAPwDme83N64yQ68AFAY4FUUlROByTXwSVuBKPUo8CmBYNDXNUREpMRThVyBijQwtKdFFL3F1HbLq5oTi2eS6N7xDCfbcKvJtMdAw6S4O6TijM6Ovi1ndEcCOxqncdNXS3R1SZERxDKfkelPC0CjIqZ+xEh0Dihhdpiq4QFoPcmqcmyvtjcwsO/wCKRzW1uG3cAfxWza9O3aez58SI6pHcV5+Mr4AzWzdtENWbQfzS4WFIUpKhtI6g1PbZrkKWh9kjek8AimFctA3eYzuMJaHu4FC1y0deLYyt+dFU20kfuNKy2skfWKah8jBLjcNf7qlp9s/1xewCWMLSCOCaf2g9Rs3OOGyQhxIwpGcbPukXaAEQfMHRZI+607XOet0tEhhZBScnHy+jTllJ6QD91P8AJ2wu9Q3I4rpSQh5gjcCEkZB71VkpblsONPje0sbVJNQ+HesYl1hohz9rm/gK9we1ElzsKN/mW9wKB6t+9WVnUnRuK5OTx7p8k667FKOF4fst3xx6Q5vgg7kIHXNH7Hlx2/KYSG2kpAGOKikpejLKZDamuxV0rE1BqCNZYZckKy5/bR/I1tY44lLDj7ocrT3TBXyeAK1bzeY1ogrky3NuBwCf3fikN4iahmXpxt3zFoiFWA3n/te77fJd6mKkSVED4t+wH4rGlpDsB7PJbG6pN5cGZSo4rpfF+NW0ZZHy3+VFbzm2IQkglKyc1cgx350lEaGyt55w7UoT7mqukocq5THosVhTylpA9Pw+6dOgrfA00nzHG/NlHhbh+P47Gg2cDzr8RjuqF7cJbsd3J4ou8KNARtORFS7nuduTyR6QfS2Px3pklDSiEAdOcjjFDMC6syEbmHASe5oI1p4rNWv9BDAcllW1bieiB9028ezBwKSV/adRkmmhPtfnNqztcbPyx0pd630Y1coC2Rw4nJQT7GtPSGt1XGCkOet8DKkD5D6opTJYnIGU7FdiaKN6Da2RQGijZgy4YVyHdYUi1zXIspJDyOhI4Iqi+oJgSFE/uTj810d4laETfoKnoiAmYgZQR8j2rm7Uja7esW98YkNKPmCptwnrBPVVrZjKQDzXmyajmWMLRA2JK+qsc/7rfiarnTmcJcSl4clOOtBtwgvwn/KktqQvGartqW2QpBIV3FLRXksWFOKemtY5ckZo2c1NdEoU0Hloz1KTisRa1OOKW4orWrqSck1A1dEuJCZjRURwCjipwqIsZS+EDsetGecy5La0usPqxt0rVs+oZ9qP6R0D7PNag15e9/pkc/VC2YqBzISodh1qJVyaZGIbKkufyXyK0Ll0Gm7FZ9Ac6hc0bSfEG+R46i/KO4jgA9KXVxnO3CaqTJVuWo5JqF91x5ZW6Sc16hxXZMlDTCCpRPApSa4aXB4pyGARZ7Nf/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAAMAAAAAAAAAAAAABgcCBQgEAQMJ/8QALhAAAQMDAgQGAgIDAQAAAAAAAQIDBAAFEQYxBxIhQQgTIkJRYRSBIzIkUlPh/8QAGQEAAwADAAAAAAAAAAAAAAAAAwQFAQIG/8QAIREAAQQBBQEBAQAAAAAAAAAAAQACAwQTBRESFCEiMTL/2gAMAwEAAhEDEQA/ANS9ObAPWo+YgJUrmASNya8PLS22paiAlPUk0jeK+sbxPSu3aVBVHGQ66kbUWGJ0h2CUtW21xu9GusOKdh06FJDolOjoUtq70rrr4gHlOH8C3qbT2KwDSpk6SvUlZcksvuLJznO9cVxsFytjPmSo622/lQqi2nxHoUiTUmS+MKb0PxBTUOhUyFzNbHlAFMfR/F+xX5xLTivxXD/0VWQ+hHQZO+KtbZY7lckedDjvJCfcjpWeq2T+Vt3S315W8WnESGgtK0rbIyFJr2JBwOcj6rOnCjU+o7C+iDem3HbeegcV7f3Twg6kgzH0tML8xZ2ApKaq+JUK+pRT/IKFuNuqRpzSD4ZP874KE9etJTQ+pG7oyWnlBD6txtmrXxUXJYm2+Kg5CTzEfqkbBnvQZaX2FFK04OKbqEMUzUozaGxWkX2HmFDmypsjcdq4JjLM6MtiQApo9zUOHerot1gpYk4WSMEnsaJrlY0KwqH6kq64qtnafFzEmnywndiT0XQhF3KpKwYaVc4I6ZHxTAZS3GabQwENNDoABjNRlMvRHAl5KkoB71Rag1BHszKlujneUP40CiNbHENwgyST2SI1aXm9RbRFLspRIP8AVOe9FvALUca/syUuoSJiFHtsnPSsw3u8ybrJU7IcIBPpR8UyPDbcnIWty02eYSQELH+oqVckdJvsuj0qkKv08+q78VcNxu5W+QpJ8pwhLePcrHUUjI7Ts2QhmMguSl+kAVr/AI/aVXqHSq3Y6eeVGBW0nuT9Un+H9ph6dxIltpdnqGDn2/8AtCrR5AqNp+NE3CXh+iwsJnXUl2c4MhpJwED7FNBSW1HA9OPjv9UOQroiSkrYWEED3HagbWnFmPbZH4duSHXkHDqx1H6ozmYyl2OyhM2fbA+wVOpBV2GKXmuNGIusI+X6XhtVzpDWYucZJWeZxQBxmicONyk5cwlfxmitPIILoA07hZAuUN2BNVHmoKFIUQc9xTL8NsZUjXSlIB8pABSfujPiboJF8gqlwkATWxlKR76vfDRo2RaIUm43Rvy5jhLYSRsAd6TsHgqNZnP9TI1XpJd+dCnJrjTIH9UKIpDcVtGXrS3+Xa1Kfibnpk1qk7YOK55kNiUypuQ0h1sjqlQzScFoxJyxUEq+fzuq7ottTKZSmyehxkGqB1ai4pTiuZxW5Petca/4C2u+Fb1pWmI6olWPv9UobpwC1NCcIjKS+gbEJpns5SgdfEEvbLqGdaOkVwqJq1VxBvQOFScH4xRTA4EaokPJSopbSdyU7U0tC+HyHbnkv3t5MlW5SKzn4LUQZCg/hVD1VrOc2uSX2rSk5LmSM/utR2qC1boTcZkelIxk7k1G1WyHaoaI0BpDUdPTCRiu7IwPntSc0xkT0MGNf//Z" alt="" />
                             <div class="about">
-                                <div class="name">X-Plane 11</div>
+                                <div class="name">X-Plane 12</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        40 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -96,7 +96,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 1 Jun 2026
+                                        Last played on 5 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
