@@ -221,17 +221,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <p align="center">
 	<a>
 		<img align="center"
-			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.projects.svg" />
-	</a>
-	<br />
-	<a>
-		<img align="center"
 			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.habits.svg" />
-	</a>
-	<br />
-	<a>
-		<img align="center"
-			src="https://raw.githubusercontent.com/danglingptr0x0/danglingptr0x0/main/metrics.plugin.languages.details.svg" />
 	</a>
 	<br />
 	<br />
