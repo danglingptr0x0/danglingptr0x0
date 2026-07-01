@@ -285,7 +285,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 		<img src="https://img.shields.io/badge/Lang-C-informational?style=flat&color=0000ff" alt="Lang - C" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Lang-NASM-informational?style=flat&color=0000ff" alt="Lang - Intel x86 Assembly" />
+		<img src="https://img.shields.io/badge/Lang-Intel%20x86%20Assembly-informational?style=flat&color=0000ff" alt="Lang - Intel x86 Assembly" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat&color=0000ff"
@@ -295,7 +295,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 		<img src="https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff" alt="Shell - zsh" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Cloud-Linode-informational?style=flat&color=0000ff"
+		<img src="https://img.shields.io/badge/Cloud-Hetzner-informational?style=flat&color=0000ff"
 			alt="Cloud - Linode" />
 	</a>
 </p>
