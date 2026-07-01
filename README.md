@@ -285,7 +285,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 		<img src="https://img.shields.io/badge/Lang-C-informational?style=flat&color=0000ff" alt="Lang - C" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Lang-NASM-informational?style=flat&color=0000ff" alt="Lang - NASM" />
+		<img src="https://img.shields.io/badge/Lang-NASM-informational?style=flat&color=0000ff" alt="Lang - Intel x86 Assembly" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat&color=0000ff"
