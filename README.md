@@ -49,6 +49,8 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <p>So far, I've collectively written ~137k SLOC in these projects. <b>I only use SLOC to estimate project size, but it doesn't really mean anything more than that. Code quality is not measured in SLOC.</b></p>
 <p>The most notable is my custom ISA + 32-bit CPU, and an operating system to go along with it:</p>
 
+<hr>
+
 <h3>Crosstalk</h3>
 <h4>A complete EDA suite currently preparing for a Steam release as a city-builder game</h4>
 <p>~225000 source lines of C, across four repositories</p>
