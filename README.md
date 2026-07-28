@@ -54,6 +54,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <h4>A complete EDA suite currently preparing for a Steam release as a city-builder game</h4>
 <p>~225000 source lines of C, across four repositories</p>
 
+<a href="https://youtu.be/kakT1Ldu-AA" target="_blank"><img src="https://img.youtube.com/vi/kakT1Ldu-AA/hqdefault.jpg" alt="Crosstalk's First Trailer"></a>
 <p><a href="https://store.steampowered.com/app/4898790/Crosstalk/" target="_blank">Steam Store Page</a></p>
 
 <hr>
