@@ -53,6 +53,8 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <h4>A complete EDA suite currently preparing for a Steam release as a city-builder game</h4>
 
 <a href="https://youtu.be/kakT1Ldu-AA" target="_blank"><img src="https://img.youtube.com/vi/kakT1Ldu-AA/hqdefault.jpg" alt="Crosstalk's First Trailer"></a>
+<a href="https://youtu.be/VjGu4s2nqXE" target="_blank"><img src="https://img.youtube.com/vi/VjGu4s2nqXE/hqdefault.jpg" alt="Crosstalk: Running my kernel"></a>
+<a href="https://youtu.be/8M4lI0xvY7M" target="_blank"><img src="https://img.youtube.com/vi/8M4lI0xvY7M/hqdefault.jpg" alt="Crosstalk: DOOM splash"></a>
 <p><a href="https://store.steampowered.com/app/4898790/Crosstalk/" target="_blank">Steam Store Page</a></p>
 
 <hr>
