@@ -50,7 +50,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <hr>
 
 <h3>Crosstalk</h3>
-<h4>A complete EDA suite currently preparing for a Steam release as a city-builder game</h4>
+<h4>A complete EDA suite currently preparing for a Steam release as a electronics-building game</h4>
 
 <a href="https://youtu.be/kakT1Ldu-AA" target="_blank"><img src="https://img.youtube.com/vi/kakT1Ldu-AA/hqdefault.jpg" alt="Crosstalk's First Trailer"></a>
 <a href="https://youtu.be/VjGu4s2nqXE" target="_blank"><img src="https://img.youtube.com/vi/VjGu4s2nqXE/hqdefault.jpg" alt="Crosstalk: Running my kernel"></a>
