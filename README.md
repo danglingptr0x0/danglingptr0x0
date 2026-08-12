@@ -191,17 +191,6 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 ## Basic stats - global, all-time
 
 <p align="center">
-	<a href="https://wakatime.com/@70f280d9-2d73-42e5-894d-a0d0f2acbd75"><img
-			src="https://wakatime.com/badge/user/70f280d9-2d73-42e5-894d-a0d0f2acbd75.svg"
-			alt="Total time coded since May 15 2021" /></a><br>
-	<a>
-		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/overview.svg" />
-	</a>
-	<br>
-	<a href="https://wakatime.com/@simonSlamka">
-		<img align="center" src="https://github.com/danglingptr0x0/danglingptr0x0/blob/output/generated/languages.svg" />
-	</a>
-	<br />
 	<a>
 		<img align="center"
 			src="http://github-readme-streak-stats.herokuapp.com?user=danglingptr0x0&theme=tokyonight_duo&hide_border=true" />
