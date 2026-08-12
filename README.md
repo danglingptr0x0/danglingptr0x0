@@ -40,6 +40,7 @@
 </p>
 
 ## What I do
+(**many of the static frames below are clickable (they're from my YT videos)**)
 
 <div align="center">
 <p>I'm very passionate about technology and how it can be used to perform things that I like.
