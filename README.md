@@ -40,7 +40,6 @@
 </p>
 
 ## What I do
-(**many of the static frames below are clickable (they're from my YT videos)**)
 
 <div align="center">
 <p>I'm very passionate about technology and how it can be used to perform things that I like.
@@ -49,6 +48,8 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <p>I have an ongoing project to address each of the above. I've made quite some progress in some, less in others.</p>
 
 <hr>
+
+(_many of the static frames below are clickable (they're from my YT videos)_)
 
 <h3>Crosstalk</h3>
 <h4>A complete EDA suite currently preparing for a Steam release as an electronics-building game</h4>
