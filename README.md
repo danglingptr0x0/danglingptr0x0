@@ -84,7 +84,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 
 <p><b>cuT</b> (a fully-fledged 3D game engine)<br>
 
-<p><b>HeapZy</b> (a to-do list program)<br>
+<p><b>HeapZy</b> (an over-engineered to-do list program)<br>
 
 <p><b>DANGC</b> (my own programming language; started as a C-like language and grew into something different)<br>
 
