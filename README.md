@@ -28,7 +28,7 @@
 <div align="center">
 <p>I'm very passionate about technology and how it can be used to perform things that I like.
 My primary interest lies within systems engineering. As I grew up, I learned just how many unnecessary things are being done by software. Plus, I somehow grew into, at least in part, disliking most of what I came into contact with. I had many ideas on how to make things differently.</p>
-<p>This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to take), then morphed into: game engines (none really fit me; Unreal was too bloated, Unity used ... <i>JavaScript</i>); operating systems (kernel <i>and</i> userspace); programming languages (I love C vehemently, but ... it's not without its (many) issues); and most recently, it got into hardware itself, where I felt like the x86 is just a piece of convoluted, bloated trash.</p>
+<p>This way, I got deep into building my own systems, my own way. It started with games (missing freedom, actions I wanted to take), then morphed into: game engines (none really fit me; Unreal was too bloated, Unity used ... <i>JavaScript</i>); operating systems (kernel <i>and</i> userspace); programming languages (I love C vehemently, but ... it's not without its (many) issues); and most recently, it got into hardware itself, where I felt like the x86 is just a piece of convoluted, bloated trash (variable-length instructions, which allows for instruction overlapping; REX; just the sheer amount of instructions; ...).</p>
 <p>I have an ongoing project to address each of the above. I've made quite some progress in some, less in others.</p>
 
 <hr>
