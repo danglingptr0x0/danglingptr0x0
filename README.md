@@ -52,9 +52,9 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 (_many of the static frames below are clickable (they're from my YT videos)_)
 
 <h3>Crosstalk</h3>
-<h4>A complete EDA suite currently preparing for a Steam release as an electronics-building game</h4>
+<h4>An RTL suite currently preparing for a Steam release</h4>
 
-<a href="https://youtu.be/kakT1Ldu-AA" target="_blank"><img src="https://img.youtube.com/vi/kakT1Ldu-AA/hqdefault.jpg" alt="Crosstalk's First Trailer"></a>
+<a href="https://youtu.be/SX322t3RL1A" target="_blank"><img src="https://img.youtube.com/vi/SX322t3RL1A/hqdefault.jpg" alt="Crosstalk's second trailer"></a>
 <a href="https://youtu.be/VjGu4s2nqXE" target="_blank"><img src="https://img.youtube.com/vi/VjGu4s2nqXE/hqdefault.jpg" alt="Crosstalk: Running my kernel"></a>
 <a href="https://youtu.be/8M4lI0xvY7M" target="_blank"><img src="https://img.youtube.com/vi/8M4lI0xvY7M/hqdefault.jpg" alt="Crosstalk: DOOM splash"></a>
 <a href="https://youtu.be/ipLdxPhDbxI" target="_blank"><img src="https://img.youtube.com/vi/ipLdxPhDbxI/hqdefault.jpg" alt="Crosstalk: DOOM E1M1"></a>
@@ -63,7 +63,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <hr>
 
 <h3>MISC ISA + DLU CPU (custom ISA + CPU)</h3>
-<h4>The <i>Minimum Instruction Set Computer</i>, running on a <i>DANGLING Logic Unit</i> CPU:</h4>
+<h4>The <i>Minimal Instruction Set Computer</i>, running on a <i>DANGLING Logic Unit</i> CPU:</h4>
 
 <a href="https://youtu.be/0z8fyFlT9j0" target="_blank"><img src="https://img.youtube.com/vi/0z8fyFlT9j0/hqdefault.jpg" alt="MISC/DLU"></a>
 <a href="https://youtu.be/88zfWD1QjG4" target="_blank"><img src="https://img.youtube.com/vi/88zfWD1QjG4/hqdefault.jpg" alt="MISC/DLU"></a>
