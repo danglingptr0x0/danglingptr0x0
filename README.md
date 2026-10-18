@@ -46,7 +46,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 
 <hr>
 
-<h3>The DANGCSA/DANGXA (*renamed from "MISC"*) ISA + the DLU CPU (custom ISA + CPU)</h3>
+<h3>The DANGCSA/DANGXA (renamed from "MISC") ISA + the DLU CPU (custom ISA + CPU)</h3>
 <h4>The <i>DANGLING Computer Superarchitecture</i>, running on a <i>DANGLING Logic Unit</i> CPU:</h4>
 
 <a href="https://youtu.be/0z8fyFlT9j0" target="_blank"><img src="https://img.youtube.com/vi/0z8fyFlT9j0/hqdefault.jpg" alt="MISC/DLU"></a>
