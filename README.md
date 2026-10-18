@@ -93,12 +93,6 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <p><b>ACARIS</b> (an attempted interpersonal dynamics analyzer)<br>
 <a href="https://github.com/ongakken/ACARIS/" target="_blank">GitHub</a> | <a href="https://github.com/ongakken/ACARIS/blob/859f36883cf601e6707dc9f74d03db12aba93123/paper.pdf" target="_blank">Paper</a></p>
 
-<p><b>Simtoon Compat Score</b> (an attempted heterosexual interpersonal attraction quantifier):<br>
-<a href="https://github.com/danglingptr0x0/simtoon_compat_score" target="_blank">GitHub</a></p>
-
-<p><b>Simtoon Embeddings</b><br>
-<a href="https://github.com/ongakken/simtoon-embeddings" target="_blank">GitHub</a></p>
-
 <p><b>Attraction classifier</b><br>
 (made purely for educational purposes; do not take seriously; do not use on people without consent!)<br>
 <a href="https://github.com/danglingptr0x0/attraction-classifier" target="_blank">GitHub</a></p>
