@@ -276,6 +276,12 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 </p>
 
 <!-- duolingo start -->
+Duolingo progress
+```text
+Streak 2 days
+Total XP 111
+Swedish 111 XP
+```
 <!-- duolingo end -->
 
 
