@@ -270,7 +270,7 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 
 <p align="center">
 	<a>
-		<img align="cetner" src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10"
+		<img align="cetner" src="https://lastfm-recently-played.vercel.app/api?user=danglingptr0x0&width=500&count=10"
 			alt="Table not found - a refresh might be necessary" />
 	</a>
 </p>

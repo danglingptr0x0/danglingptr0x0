@@ -154,7 +154,7 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_top_type: artists
           plugin_music_time_range: long
-          plugin_music_user: simtoon1011
+          plugin_music_user: danglingptr0x0
           plugins_errors_fatal: no
           output_action: commit
 
