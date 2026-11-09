@@ -502,3 +502,34 @@ jobs:
           plugin_steam_user: ${{ secrets.STEAM_ID }}
           plugin_steam_sections: recently-played, most-played
           plugin_steam_achievements_limit: 0
+
+      - name: Duolingo checkout
+        if: ${{ success() || failure() }}
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Duolingo progress
+        if: ${{ success() || failure() }}
+        env:
+          DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, re, urllib.parse, urllib.request
+          user = os.environ["DUOLINGO_USERNAME"].lstrip("@")
+          req = urllib.request.Request("https://www.duolingo.com/2017-06-30/users?" + urllib.parse.urlencode({"username": user}), headers={"User-Agent": "Mozilla/5.0"})
+          data = json.load(urllib.request.urlopen(req, timeout=30))["users"][0]
+          rows = [("Streak", f"{data['streak']} days"), ("Total XP", str(data["totalXp"]))]
+          rows += [(course["title"], f"{course['xp']} XP") for course in sorted(data["courses"], key=lambda course: course["xp"], reverse=True)]
+          block = "Duolingo progress\n```text\n" + "".join(f"{name} {value}\n" for name, value in rows) + "```\n"
+          with open("README.md", encoding="utf-8") as fh:
+              text = fh.read()
+          text = re.sub(r"(<!-- duolingo start -->\n).*?(<!-- duolingo end -->)", lambda match: match.group(1) + block + match.group(2), text, flags=re.S)
+          with open("README.md", "w", encoding="utf-8") as fh:
+              fh.write(text)
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore(readme): update duolingo progress" && git pull --rebase && git push)
