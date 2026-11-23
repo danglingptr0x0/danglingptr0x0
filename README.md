@@ -278,9 +278,9 @@ My primary interest lies within systems engineering. As I grew up, I learned jus
 <!-- duolingo start -->
 Duolingo progress
 ```text
-Streak 9 days
-Total XP 901
-Swedish 901 XP
+Streak 10 days
+Total XP 916
+Swedish 916 XP
 ```
 <!-- duolingo end -->
 
